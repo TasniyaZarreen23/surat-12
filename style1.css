@@ -1,0 +1,16 @@
+
+
+.image-gallery {
+    display: flex;
+  }
+  
+  .image-container {
+    margin-right: 10px; /* Add your desired margin */
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Add your desired border radius */
+  }
+  
